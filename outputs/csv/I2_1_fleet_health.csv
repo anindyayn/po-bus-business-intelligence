@@ -1,0 +1,86 @@
+date,fleet_id,fleet_type,bus_class,health_score,risk_score,engine_score,brake_score,tire_score,inspection_result,fleet_status,predicted_fleet_status,maintenance_priority
+2026-06-28,BUS-032,Mercedes OH,Sleeper,68.8,56,67,66,68,Perlu Servis,Butuh Servis,Tidak Layak Jalan,Medium
+2026-06-26,BUS-075,Hino RM,Eksekutif,70.7,48,69,70,67,Perlu Servis,Butuh Servis,Tidak Layak Jalan,High
+2026-06-27,BUS-005,Hino RM,Ekonomi,69.2,44,60,73,68,Perlu Servis,Butuh Servis,Tidak Layak Jalan,Medium
+2026-05-01,BUS-012,Hino RM,Sleeper,75.1,42,75,77,66,Perlu Servis,Butuh Servis,Tidak Layak Jalan,High
+2026-06-22,BUS-021,Mercedes OH,Ekonomi,75.2,42,70,74,79,Perlu Servis,Butuh Servis,Tidak Layak Jalan,High
+2026-06-24,BUS-011,Hino RM,Eksekutif,76.7,42,76,75,75,Perlu Servis,Butuh Servis,Tidak Layak Jalan,High
+2026-06-07,BUS-008,Volvo B11R,Sleeper,78.0,41,77,70,83,Catatan Ringan,Butuh Servis,Tidak Layak Jalan,High
+2026-06-24,BUS-003,Mercedes OH,Eksekutif,75.2,39,70,84,72,Perlu Servis,Butuh Servis,Tidak Layak Jalan,Medium
+2026-06-13,BUS-028,Mercedes OH,Sleeper,82.9,38,80,89,78,Perlu Servis,Butuh Servis,Tidak Layak Jalan,Medium
+2026-06-02,BUS-065,Hino RM,Ekonomi,75.2,33,78,71,73,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-21,BUS-031,Mercedes OH,Eksekutif,79.0,33,79,79,76,Catatan Ringan,Butuh Servis,Tidak Layak Jalan,Medium
+2026-06-24,BUS-079,Mercedes OH,Eksekutif,72.4,32,71,66,76,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-23,BUS-017,Mercedes OH,Ekonomi,77.3,32,73,86,73,Catatan Ringan,Butuh Servis,Tidak Layak Jalan,High
+2026-06-19,BUS-054,Scania K,VIP,74.2,29,69,67,80,Perlu Servis,Butuh Servis,Tidak Layak Jalan,Medium
+2026-06-28,BUS-018,Mercedes OH,VIP,78.7,29,74,86,74,Lulus,Siap Jalan,Siap Jalan,Low
+2026-05-08,BUS-085,Volvo B11R,Ekonomi,79.3,28,77,81,84,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-21,BUS-082,Hino RM,VIP,74.1,27,72,68,71,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-07,BUS-076,Hino RM,Sleeper,75.8,27,77,72,76,Lulus,Siap Jalan,Butuh Servis,Medium
+2026-06-27,BUS-046,Mercedes OH,VIP,77.9,27,76,76,72,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-26,BUS-052,Hino RM,Sleeper,78.9,27,77,85,75,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-30,BUS-078,Hino RM,VIP,76.5,26,77,76,77,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-25,BUS-034,Hino RM,VIP,76.9,26,75,77,74,Lulus,Siap Jalan,Butuh Servis,Medium
+2026-06-20,BUS-024,Hino RM,Sleeper,78.9,26,78,80,75,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-29,BUS-019,Hino RM,Eksekutif,81.4,26,82,84,80,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-19,BUS-022,Hino RM,VIP,79.8,25,80,77,80,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-17,BUS-023,Scania K,Eksekutif,76.5,24,69,78,84,Lulus,Siap Jalan,Butuh Servis,Medium
+2026-05-16,BUS-055,Mercedes OH,Eksekutif,80.2,24,77,79,85,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-10,BUS-036,Scania K,Sleeper,81.5,24,75,82,88,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-30,BUS-061,Volvo B11R,Ekonomi,83.1,24,81,83,81,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-06-29,BUS-016,Scania K,Sleeper,77.7,23,73,86,72,Lulus,Siap Jalan,Butuh Servis,Medium
+2026-06-06,BUS-045,Scania K,Ekonomi,80.7,23,82,76,82,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-06-22,BUS-044,Volvo B11R,Sleeper,81.0,23,69,81,83,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-06-27,BUS-062,Mercedes OH,VIP,83.5,23,83,84,78,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-02,BUS-033,Scania K,Ekonomi,76.8,22,75,81,74,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Medium
+2026-06-22,BUS-070,Hino RM,VIP,79.1,22,80,80,69,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Medium
+2026-06-30,BUS-083,Scania K,Eksekutif,80.6,22,81,81,78,Lulus,Siap Jalan,Siap Jalan,Low
+2026-05-11,BUS-071,Scania K,Eksekutif,82.5,22,94,80,69,Lulus,Siap Jalan,Butuh Servis,Medium
+2026-05-05,BUS-058,Scania K,VIP,82.7,22,85,85,76,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-27,BUS-013,Scania K,Ekonomi,74.9,21,72,80,71,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-19,BUS-020,Hino RM,Sleeper,79.8,21,78,78,76,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-16,BUS-010,Scania K,VIP,80.6,21,79,86,88,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-06-25,BUS-048,Hino RM,Sleeper,74.7,20,72,83,74,Lulus,Siap Jalan,Butuh Servis,Low
+2026-03-26,BUS-066,Volvo B11R,VIP,77.8,20,73,84,71,Lulus,Siap Jalan,Butuh Servis,Low
+2026-05-14,BUS-029,Volvo B11R,Ekonomi,80.9,20,84,79,68,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-05-27,BUS-053,Volvo B11R,Ekonomi,81.3,20,83,80,87,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-29,BUS-009,Mercedes OH,Ekonomi,78.2,19,81,76,75,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-21,BUS-050,Scania K,VIP,91.3,19,94,93,87,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-06-10,BUS-030,Scania K,VIP,77.6,18,76,83,70,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Medium
+2026-06-13,BUS-039,Hino RM,Eksekutif,79.9,18,80,79,76,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-06-30,BUS-004,Scania K,Sleeper,80.5,18,87,70,77,Lulus,Siap Jalan,Butuh Servis,Low
+2026-05-31,BUS-067,Mercedes OH,Eksekutif,80.8,18,83,80,72,Lulus,Siap Jalan,Butuh Servis,Medium
+2026-06-26,BUS-043,Mercedes OH,Eksekutif,80.9,18,83,71,81,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-11,BUS-006,Scania K,VIP,81.4,18,85,83,73,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-18,BUS-027,Volvo B11R,Eksekutif,83.8,18,80,84,83,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-06-18,BUS-037,Hino RM,Ekonomi,84.4,18,84,90,83,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-06-15,BUS-001,Scania K,Ekonomi,75.0,17,80,79,74,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-18,BUS-035,Volvo B11R,Eksekutif,78.9,17,74,77,76,Lulus,Siap Jalan,Siap Jalan,Low
+2026-05-04,BUS-060,Hino RM,Sleeper,82.2,17,77,92,88,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-03,BUS-002,Volvo B11R,VIP,84.7,17,79,85,93,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-04-10,BUS-080,Hino RM,Sleeper,80.0,16,75,78,82,Lulus,Siap Jalan,Butuh Servis,Medium
+2026-06-14,BUS-059,Scania K,Eksekutif,81.6,16,83,80,76,Lulus,Siap Jalan,Siap Jalan,Low
+2026-04-20,BUS-051,Scania K,Eksekutif,86.1,15,87,86,89,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-05-20,BUS-069,Scania K,Ekonomi,86.1,15,95,85,79,Lulus,Siap Jalan,Siap Jalan,Low
+2026-02-28,BUS-042,Volvo B11R,VIP,87.6,15,91,89,85,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-06-27,BUS-072,Mercedes OH,Sleeper,89.5,15,92,94,85,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-08,BUS-014,Hino RM,VIP,90.4,15,92,100,73,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-20,BUS-007,Scania K,Eksekutif,76.6,14,75,71,76,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-06,BUS-068,Hino RM,Sleeper,87.1,14,88,84,91,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-04-21,BUS-026,Hino RM,VIP,88.3,14,82,93,81,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-21,BUS-077,Scania K,Ekonomi,84.4,13,87,86,78,Lulus,Siap Jalan,Siap Jalan,Low
+2026-04-28,BUS-057,Mercedes OH,Ekonomi,84.7,13,88,85,85,Lulus,Siap Jalan,Butuh Servis,Low
+2026-06-05,BUS-025,Mercedes OH,Ekonomi,90.7,13,90,96,80,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-05-27,BUS-073,Scania K,Ekonomi,80.6,12,78,73,89,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Medium
+2026-05-21,BUS-015,Hino RM,Eksekutif,87.6,12,84,93,89,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-06-29,BUS-081,Mercedes OH,Ekonomi,80.4,11,78,88,79,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-05-22,BUS-049,Volvo B11R,Ekonomi,86.0,11,87,92,87,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-05-31,BUS-040,Scania K,Sleeper,86.8,11,89,89,89,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-05-25,BUS-064,Volvo B11R,Sleeper,87.3,11,86,89,83,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-26,BUS-056,Mercedes OH,Sleeper,80.1,8,80,85,82,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-28,BUS-047,Scania K,Eksekutif,82.5,8,83,87,71,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-12,BUS-063,Hino RM,Eksekutif,84.0,8,88,85,76,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Low
+2026-04-28,BUS-038,Scania K,VIP,90.3,7,94,89,88,Lulus,Siap Jalan,Siap Jalan,Low
+2026-06-04,BUS-041,Hino RM,Ekonomi,91.7,7,88,96,100,Lulus,Siap Jalan,Siap Jalan,Medium
+2026-06-17,BUS-084,Volvo B11R,Sleeper,90.3,5,91,92,90,Catatan Ringan,Siap Jalan,Tidak Layak Jalan,Medium
+2026-06-03,BUS-074,Hino RM,VIP,93.5,3,92,95,92,Lulus,Siap Jalan,Siap Jalan,Medium

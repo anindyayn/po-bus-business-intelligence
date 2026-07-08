@@ -1,0 +1,7 @@
+feedback_cluster,feedback_count,avg_passenger_rating,dominant_complaint_category,dominant_route,sample_feedback,cluster_keywords
+0,2567,4.22,Tidak Ada,Yogyakarta - Surabaya,perjalanan lancar tanpa keluhan,lancar
+1,814,4.15,Pelayanan,Yogyakarta - Jakarta,layanan kru perlu ditingkatkan,"layanan, perlu, ditingkatkan"
+3,403,4.25,Rute,Yogyakarta - Malang,titik keberangkatan kurang jelas,"titik, keberangkatan, kurang, jelas"
+4,379,4.2,Jadwal,Yogyakarta - Malang,pilihan jadwal kurang fleksibel,"pilihan, jadwal, kurang, fleksibel"
+2,192,3.66,Kepadatan,Yogyakarta - Jakarta,bus terlalu penuh saat musim ramai,"terlalu, penuh, saat, musim, ramai"
+5,14,2.86,Delay,Yogyakarta - Denpasar,bus terlambat dan jadwal tidak sesuai,"terlambat, jadwal, sesuai"

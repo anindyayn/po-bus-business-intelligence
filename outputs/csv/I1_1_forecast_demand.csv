@@ -1,0 +1,351 @@
+forecast_date,route_id,route_name,departure_slot,predicted_tickets_sold,avg_capacity_seats,recommended_frequency_python,model_method
+2026-04-10,R008,Yogyakarta - Purwokerto,Sore,14.37,31.87,1,rolling_average
+2026-04-11,R008,Yogyakarta - Purwokerto,Sore,14.37,31.87,1,rolling_average
+2026-04-12,R008,Yogyakarta - Purwokerto,Sore,14.37,31.87,1,rolling_average
+2026-04-13,R008,Yogyakarta - Purwokerto,Sore,14.37,31.87,1,rolling_average
+2026-04-14,R008,Yogyakarta - Purwokerto,Sore,14.37,31.87,1,rolling_average
+2026-04-15,R008,Yogyakarta - Purwokerto,Sore,14.37,31.87,1,rolling_average
+2026-04-16,R008,Yogyakarta - Purwokerto,Sore,14.37,31.87,1,rolling_average
+2026-05-02,R006,Yogyakarta - Denpasar,Siang,23.57,30.9,1,rolling_average
+2026-05-03,R006,Yogyakarta - Denpasar,Siang,23.57,30.9,1,rolling_average
+2026-05-04,R006,Yogyakarta - Denpasar,Siang,23.57,30.9,1,rolling_average
+2026-05-05,R006,Yogyakarta - Denpasar,Siang,23.57,30.9,1,rolling_average
+2026-05-06,R006,Yogyakarta - Denpasar,Siang,23.57,30.9,1,rolling_average
+2026-05-07,R006,Yogyakarta - Denpasar,Siang,23.57,30.9,1,rolling_average
+2026-05-08,R006,Yogyakarta - Denpasar,Siang,23.57,30.9,1,rolling_average
+2026-05-13,R010,Yogyakarta - Lampung,Malam,12.14,31.65,1,rolling_average
+2026-05-14,R010,Yogyakarta - Lampung,Malam,12.14,31.65,1,rolling_average
+2026-05-15,R010,Yogyakarta - Lampung,Malam,12.14,31.65,1,rolling_average
+2026-05-16,R010,Yogyakarta - Lampung,Malam,12.14,31.65,1,rolling_average
+2026-05-17,R007,Yogyakarta - Solo,Sore,16.5,31.51,1,rolling_average
+2026-05-17,R010,Yogyakarta - Lampung,Malam,12.14,31.65,1,rolling_average
+2026-05-18,R007,Yogyakarta - Solo,Sore,16.5,31.51,1,rolling_average
+2026-05-18,R010,Yogyakarta - Lampung,Malam,12.14,31.65,1,rolling_average
+2026-05-19,R007,Yogyakarta - Solo,Sore,16.5,31.51,1,rolling_average
+2026-05-19,R010,Yogyakarta - Lampung,Malam,12.14,31.65,1,rolling_average
+2026-05-20,R007,Yogyakarta - Solo,Sore,16.5,31.51,1,rolling_average
+2026-05-21,R007,Yogyakarta - Solo,Sore,16.5,31.51,1,rolling_average
+2026-05-22,R007,Yogyakarta - Solo,Sore,16.5,31.51,1,rolling_average
+2026-05-23,R007,Yogyakarta - Solo,Sore,16.5,31.51,1,rolling_average
+2026-06-03,R004,Yogyakarta - Semarang,Pagi,24.0,31.34,1,rolling_average
+2026-06-04,R004,Yogyakarta - Semarang,Pagi,24.0,31.34,1,rolling_average
+2026-06-05,R004,Yogyakarta - Semarang,Pagi,24.0,31.34,1,rolling_average
+2026-06-06,R004,Yogyakarta - Semarang,Pagi,24.0,31.34,1,rolling_average
+2026-06-07,R001,Yogyakarta - Jakarta,Dini Hari,39.18,31.08,2,rolling_average
+2026-06-07,R002,Yogyakarta - Bandung,Dini Hari,26.25,32.31,1,rolling_average
+2026-06-07,R004,Yogyakarta - Semarang,Pagi,24.0,31.34,1,rolling_average
+2026-06-08,R001,Yogyakarta - Jakarta,Dini Hari,39.18,31.08,2,rolling_average
+2026-06-08,R002,Yogyakarta - Bandung,Dini Hari,26.25,32.31,1,rolling_average
+2026-06-08,R004,Yogyakarta - Semarang,Pagi,24.0,31.34,1,rolling_average
+2026-06-09,R001,Yogyakarta - Jakarta,Dini Hari,39.18,31.08,2,rolling_average
+2026-06-09,R002,Yogyakarta - Bandung,Dini Hari,26.25,32.31,1,rolling_average
+2026-06-09,R004,Yogyakarta - Semarang,Pagi,24.0,31.34,1,rolling_average
+2026-06-10,R001,Yogyakarta - Jakarta,Dini Hari,39.18,31.08,2,rolling_average
+2026-06-10,R002,Yogyakarta - Bandung,Dini Hari,26.25,32.31,1,rolling_average
+2026-06-10,R009,Yogyakarta - Madiun,Siang,13.37,33.06,1,rolling_average
+2026-06-11,R001,Yogyakarta - Jakarta,Dini Hari,39.18,31.08,2,rolling_average
+2026-06-11,R001,Yogyakarta - Jakarta,Malam,25.0,31.49,1,rolling_average
+2026-06-11,R002,Yogyakarta - Bandung,Dini Hari,26.25,32.31,1,rolling_average
+2026-06-11,R009,Yogyakarta - Madiun,Siang,13.37,33.06,1,rolling_average
+2026-06-12,R001,Yogyakarta - Jakarta,Dini Hari,39.18,31.08,2,rolling_average
+2026-06-12,R001,Yogyakarta - Jakarta,Malam,25.0,31.49,1,rolling_average
+2026-06-12,R002,Yogyakarta - Bandung,Dini Hari,26.25,32.31,1,rolling_average
+2026-06-12,R009,Yogyakarta - Madiun,Siang,13.37,33.06,1,rolling_average
+2026-06-13,R001,Yogyakarta - Jakarta,Dini Hari,39.18,31.08,2,rolling_average
+2026-06-13,R001,Yogyakarta - Jakarta,Malam,25.0,31.49,1,rolling_average
+2026-06-13,R002,Yogyakarta - Bandung,Dini Hari,26.25,32.31,1,rolling_average
+2026-06-13,R002,Yogyakarta - Bandung,Sore,13.64,31.66,1,rolling_average
+2026-06-13,R008,Yogyakarta - Purwokerto,Pagi,15.54,31.78,1,rolling_average
+2026-06-13,R009,Yogyakarta - Madiun,Siang,13.37,33.06,1,rolling_average
+2026-06-14,R001,Yogyakarta - Jakarta,Malam,25.0,31.49,1,rolling_average
+2026-06-14,R002,Yogyakarta - Bandung,Sore,13.64,31.66,1,rolling_average
+2026-06-14,R005,Yogyakarta - Malang,Siang,21.36,31.62,1,rolling_average
+2026-06-14,R008,Yogyakarta - Purwokerto,Pagi,15.54,31.78,1,rolling_average
+2026-06-14,R009,Yogyakarta - Madiun,Siang,13.37,33.06,1,rolling_average
+2026-06-15,R001,Yogyakarta - Jakarta,Malam,25.0,31.49,1,rolling_average
+2026-06-15,R002,Yogyakarta - Bandung,Sore,13.64,31.66,1,rolling_average
+2026-06-15,R005,Yogyakarta - Malang,Siang,21.36,31.62,1,rolling_average
+2026-06-15,R006,Yogyakarta - Denpasar,Malam,21.7,31.84,1,rolling_average
+2026-06-15,R007,Yogyakarta - Solo,Pagi,14.71,30.72,1,rolling_average
+2026-06-15,R008,Yogyakarta - Purwokerto,Pagi,15.54,31.78,1,rolling_average
+2026-06-15,R009,Yogyakarta - Madiun,Siang,13.37,33.06,1,rolling_average
+2026-06-16,R001,Yogyakarta - Jakarta,Malam,25.0,31.49,1,rolling_average
+2026-06-16,R002,Yogyakarta - Bandung,Sore,13.64,31.66,1,rolling_average
+2026-06-16,R005,Yogyakarta - Malang,Siang,21.36,31.62,1,rolling_average
+2026-06-16,R006,Yogyakarta - Denpasar,Malam,21.7,31.84,1,rolling_average
+2026-06-16,R007,Yogyakarta - Solo,Pagi,14.71,30.72,1,rolling_average
+2026-06-16,R008,Yogyakarta - Purwokerto,Pagi,15.54,31.78,1,rolling_average
+2026-06-16,R009,Yogyakarta - Madiun,Siang,13.37,33.06,1,rolling_average
+2026-06-17,R001,Yogyakarta - Jakarta,Malam,25.0,31.49,1,rolling_average
+2026-06-17,R002,Yogyakarta - Bandung,Sore,13.64,31.66,1,rolling_average
+2026-06-17,R005,Yogyakarta - Malang,Siang,21.36,31.62,1,rolling_average
+2026-06-17,R006,Yogyakarta - Denpasar,Malam,21.7,31.84,1,rolling_average
+2026-06-17,R007,Yogyakarta - Solo,Pagi,14.71,30.72,1,rolling_average
+2026-06-17,R008,Yogyakarta - Purwokerto,Pagi,15.54,31.78,1,rolling_average
+2026-06-18,R002,Yogyakarta - Bandung,Pagi,23.5,31.31,1,rolling_average
+2026-06-18,R002,Yogyakarta - Bandung,Sore,13.64,31.66,1,rolling_average
+2026-06-18,R005,Yogyakarta - Malang,Siang,21.36,31.62,1,rolling_average
+2026-06-18,R006,Yogyakarta - Denpasar,Malam,21.7,31.84,1,rolling_average
+2026-06-18,R007,Yogyakarta - Solo,Pagi,14.71,30.72,1,rolling_average
+2026-06-18,R008,Yogyakarta - Purwokerto,Pagi,15.54,31.78,1,rolling_average
+2026-06-18,R010,Yogyakarta - Lampung,Pagi,12.59,31.79,1,rolling_average
+2026-06-19,R001,Yogyakarta - Jakarta,Siang,25.0,31.29,1,rolling_average
+2026-06-19,R002,Yogyakarta - Bandung,Malam,19.14,30.91,1,rolling_average
+2026-06-19,R002,Yogyakarta - Bandung,Pagi,23.5,31.31,1,rolling_average
+2026-06-19,R002,Yogyakarta - Bandung,Sore,13.64,31.66,1,rolling_average
+2026-06-19,R005,Yogyakarta - Malang,Malam,26.84,31.42,1,rolling_average
+2026-06-19,R005,Yogyakarta - Malang,Siang,21.36,31.62,1,rolling_average
+2026-06-19,R006,Yogyakarta - Denpasar,Malam,21.7,31.84,1,rolling_average
+2026-06-19,R007,Yogyakarta - Solo,Pagi,14.71,30.72,1,rolling_average
+2026-06-19,R008,Yogyakarta - Purwokerto,Pagi,15.54,31.78,1,rolling_average
+2026-06-19,R010,Yogyakarta - Lampung,Pagi,12.59,31.79,1,rolling_average
+2026-06-20,R001,Yogyakarta - Jakarta,Siang,25.0,31.29,1,rolling_average
+2026-06-20,R002,Yogyakarta - Bandung,Malam,19.14,30.91,1,rolling_average
+2026-06-20,R002,Yogyakarta - Bandung,Pagi,23.5,31.31,1,rolling_average
+2026-06-20,R004,Yogyakarta - Semarang,Sore,21.38,32.03,1,rolling_average
+2026-06-20,R005,Yogyakarta - Malang,Malam,26.84,31.42,1,rolling_average
+2026-06-20,R005,Yogyakarta - Malang,Siang,21.36,31.62,1,rolling_average
+2026-06-20,R006,Yogyakarta - Denpasar,Malam,21.7,31.84,1,rolling_average
+2026-06-20,R007,Yogyakarta - Solo,Pagi,14.71,30.72,1,rolling_average
+2026-06-20,R010,Yogyakarta - Lampung,Pagi,12.59,31.79,1,rolling_average
+2026-06-21,R001,Yogyakarta - Jakarta,Siang,25.0,31.29,1,rolling_average
+2026-06-21,R002,Yogyakarta - Bandung,Malam,19.14,30.91,1,rolling_average
+2026-06-21,R002,Yogyakarta - Bandung,Pagi,23.5,31.31,1,rolling_average
+2026-06-21,R004,Yogyakarta - Semarang,Sore,21.38,32.03,1,rolling_average
+2026-06-21,R005,Yogyakarta - Malang,Malam,26.84,31.42,1,rolling_average
+2026-06-21,R005,Yogyakarta - Malang,Sore,36.19,30.73,2,rolling_average
+2026-06-21,R006,Yogyakarta - Denpasar,Malam,21.7,31.84,1,rolling_average
+2026-06-21,R007,Yogyakarta - Solo,Pagi,14.71,30.72,1,rolling_average
+2026-06-21,R009,Yogyakarta - Madiun,Malam,15.79,32.27,1,rolling_average
+2026-06-21,R010,Yogyakarta - Lampung,Pagi,12.59,31.79,1,rolling_average
+2026-06-22,R001,Yogyakarta - Jakarta,Siang,25.0,31.29,1,rolling_average
+2026-06-22,R002,Yogyakarta - Bandung,Malam,19.14,30.91,1,rolling_average
+2026-06-22,R002,Yogyakarta - Bandung,Pagi,23.5,31.31,1,rolling_average
+2026-06-22,R003,Yogyakarta - Surabaya,Siang,37.16,32.34,2,rolling_average
+2026-06-22,R004,Yogyakarta - Semarang,Sore,21.38,32.03,1,rolling_average
+2026-06-22,R005,Yogyakarta - Malang,Malam,26.84,31.42,1,rolling_average
+2026-06-22,R005,Yogyakarta - Malang,Sore,36.19,30.73,2,rolling_average
+2026-06-22,R009,Yogyakarta - Madiun,Malam,15.79,32.27,1,rolling_average
+2026-06-22,R009,Yogyakarta - Madiun,Pagi,18.59,30.24,1,rolling_average
+2026-06-22,R010,Yogyakarta - Lampung,Pagi,12.59,31.79,1,rolling_average
+2026-06-23,R001,Yogyakarta - Jakarta,Siang,25.0,31.29,1,rolling_average
+2026-06-23,R002,Yogyakarta - Bandung,Malam,19.14,30.91,1,rolling_average
+2026-06-23,R002,Yogyakarta - Bandung,Pagi,23.5,31.31,1,rolling_average
+2026-06-23,R003,Yogyakarta - Surabaya,Malam,34.0,31.04,2,rolling_average
+2026-06-23,R003,Yogyakarta - Surabaya,Siang,37.16,32.34,2,rolling_average
+2026-06-23,R004,Yogyakarta - Semarang,Sore,21.38,32.03,1,rolling_average
+2026-06-23,R005,Yogyakarta - Malang,Malam,26.84,31.42,1,rolling_average
+2026-06-23,R005,Yogyakarta - Malang,Sore,36.19,30.73,2,rolling_average
+2026-06-23,R008,Yogyakarta - Purwokerto,Malam,14.12,31.01,1,rolling_average
+2026-06-23,R009,Yogyakarta - Madiun,Malam,15.79,32.27,1,rolling_average
+2026-06-23,R009,Yogyakarta - Madiun,Pagi,18.59,30.24,1,rolling_average
+2026-06-23,R010,Yogyakarta - Lampung,Dini Hari,12.9,32.08,1,rolling_average
+2026-06-23,R010,Yogyakarta - Lampung,Pagi,12.59,31.79,1,rolling_average
+2026-06-24,R001,Yogyakarta - Jakarta,Siang,25.0,31.29,1,rolling_average
+2026-06-24,R002,Yogyakarta - Bandung,Malam,19.14,30.91,1,rolling_average
+2026-06-24,R002,Yogyakarta - Bandung,Pagi,23.5,31.31,1,rolling_average
+2026-06-24,R003,Yogyakarta - Surabaya,Malam,34.0,31.04,2,rolling_average
+2026-06-24,R003,Yogyakarta - Surabaya,Siang,37.16,32.34,2,rolling_average
+2026-06-24,R004,Yogyakarta - Semarang,Sore,21.38,32.03,1,rolling_average
+2026-06-24,R005,Yogyakarta - Malang,Malam,26.84,31.42,1,rolling_average
+2026-06-24,R005,Yogyakarta - Malang,Sore,36.19,30.73,2,rolling_average
+2026-06-24,R008,Yogyakarta - Purwokerto,Dini Hari,19.14,32.13,1,rolling_average
+2026-06-24,R008,Yogyakarta - Purwokerto,Malam,14.12,31.01,1,rolling_average
+2026-06-24,R009,Yogyakarta - Madiun,Malam,15.79,32.27,1,rolling_average
+2026-06-24,R009,Yogyakarta - Madiun,Pagi,18.59,30.24,1,rolling_average
+2026-06-24,R010,Yogyakarta - Lampung,Dini Hari,12.9,32.08,1,rolling_average
+2026-06-24,R010,Yogyakarta - Lampung,Pagi,12.59,31.79,1,rolling_average
+2026-06-25,R001,Yogyakarta - Jakarta,Siang,25.0,31.29,1,rolling_average
+2026-06-25,R002,Yogyakarta - Bandung,Malam,19.14,30.91,1,rolling_average
+2026-06-25,R003,Yogyakarta - Surabaya,Malam,34.0,31.04,2,rolling_average
+2026-06-25,R003,Yogyakarta - Surabaya,Siang,37.16,32.34,2,rolling_average
+2026-06-25,R004,Yogyakarta - Semarang,Dini Hari,26.04,32.38,1,rolling_average
+2026-06-25,R004,Yogyakarta - Semarang,Sore,21.38,32.03,1,rolling_average
+2026-06-25,R005,Yogyakarta - Malang,Dini Hari,22.45,31.7,1,rolling_average
+2026-06-25,R005,Yogyakarta - Malang,Malam,26.84,31.42,1,rolling_average
+2026-06-25,R005,Yogyakarta - Malang,Sore,36.19,30.73,2,rolling_average
+2026-06-25,R006,Yogyakarta - Denpasar,Dini Hari,16.51,30.03,1,rolling_average
+2026-06-25,R008,Yogyakarta - Purwokerto,Dini Hari,19.14,32.13,1,rolling_average
+2026-06-25,R008,Yogyakarta - Purwokerto,Malam,14.12,31.01,1,rolling_average
+2026-06-25,R009,Yogyakarta - Madiun,Malam,15.79,32.27,1,rolling_average
+2026-06-25,R009,Yogyakarta - Madiun,Pagi,18.59,30.24,1,rolling_average
+2026-06-25,R010,Yogyakarta - Lampung,Dini Hari,12.9,32.08,1,rolling_average
+2026-06-26,R003,Yogyakarta - Surabaya,Dini Hari,36.11,30.87,2,rolling_average
+2026-06-26,R003,Yogyakarta - Surabaya,Malam,34.0,31.04,2,rolling_average
+2026-06-26,R003,Yogyakarta - Surabaya,Siang,37.16,32.34,2,rolling_average
+2026-06-26,R004,Yogyakarta - Semarang,Dini Hari,26.04,32.38,1,rolling_average
+2026-06-26,R004,Yogyakarta - Semarang,Siang,16.15,32.11,1,rolling_average
+2026-06-26,R004,Yogyakarta - Semarang,Sore,21.38,32.03,1,rolling_average
+2026-06-26,R005,Yogyakarta - Malang,Dini Hari,22.45,31.7,1,rolling_average
+2026-06-26,R005,Yogyakarta - Malang,Sore,36.19,30.73,2,rolling_average
+2026-06-26,R006,Yogyakarta - Denpasar,Dini Hari,16.51,30.03,1,rolling_average
+2026-06-26,R008,Yogyakarta - Purwokerto,Dini Hari,19.14,32.13,1,rolling_average
+2026-06-26,R008,Yogyakarta - Purwokerto,Malam,14.12,31.01,1,rolling_average
+2026-06-26,R009,Yogyakarta - Madiun,Malam,15.79,32.27,1,rolling_average
+2026-06-26,R009,Yogyakarta - Madiun,Pagi,18.59,30.24,1,rolling_average
+2026-06-26,R010,Yogyakarta - Lampung,Dini Hari,12.9,32.08,1,rolling_average
+2026-06-27,R001,Yogyakarta - Jakarta,Pagi,32.36,30.81,2,rolling_average
+2026-06-27,R001,Yogyakarta - Jakarta,Sore,35.02,31.86,2,rolling_average
+2026-06-27,R003,Yogyakarta - Surabaya,Dini Hari,36.11,30.87,2,rolling_average
+2026-06-27,R003,Yogyakarta - Surabaya,Malam,34.0,31.04,2,rolling_average
+2026-06-27,R003,Yogyakarta - Surabaya,Siang,37.16,32.34,2,rolling_average
+2026-06-27,R004,Yogyakarta - Semarang,Dini Hari,26.04,32.38,1,rolling_average
+2026-06-27,R004,Yogyakarta - Semarang,Malam,19.57,31.43,1,rolling_average
+2026-06-27,R004,Yogyakarta - Semarang,Siang,16.15,32.11,1,rolling_average
+2026-06-27,R005,Yogyakarta - Malang,Dini Hari,22.45,31.7,1,rolling_average
+2026-06-27,R005,Yogyakarta - Malang,Sore,36.19,30.73,2,rolling_average
+2026-06-27,R006,Yogyakarta - Denpasar,Dini Hari,16.51,30.03,1,rolling_average
+2026-06-27,R007,Yogyakarta - Solo,Siang,18.29,29.96,1,rolling_average
+2026-06-27,R008,Yogyakarta - Purwokerto,Dini Hari,19.14,32.13,1,rolling_average
+2026-06-27,R008,Yogyakarta - Purwokerto,Malam,14.12,31.01,1,rolling_average
+2026-06-27,R009,Yogyakarta - Madiun,Malam,15.79,32.27,1,rolling_average
+2026-06-27,R009,Yogyakarta - Madiun,Pagi,18.59,30.24,1,rolling_average
+2026-06-27,R010,Yogyakarta - Lampung,Dini Hari,12.9,32.08,1,rolling_average
+2026-06-28,R001,Yogyakarta - Jakarta,Pagi,32.36,30.81,2,rolling_average
+2026-06-28,R001,Yogyakarta - Jakarta,Sore,35.02,31.86,2,rolling_average
+2026-06-28,R003,Yogyakarta - Surabaya,Dini Hari,36.11,30.87,2,rolling_average
+2026-06-28,R003,Yogyakarta - Surabaya,Malam,34.0,31.04,2,rolling_average
+2026-06-28,R003,Yogyakarta - Surabaya,Siang,37.16,32.34,2,rolling_average
+2026-06-28,R003,Yogyakarta - Surabaya,Sore,24.0,31.3,1,rolling_average
+2026-06-28,R004,Yogyakarta - Semarang,Dini Hari,26.04,32.38,1,rolling_average
+2026-06-28,R004,Yogyakarta - Semarang,Malam,19.57,31.43,1,rolling_average
+2026-06-28,R004,Yogyakarta - Semarang,Siang,16.15,32.11,1,rolling_average
+2026-06-28,R005,Yogyakarta - Malang,Dini Hari,22.45,31.7,1,rolling_average
+2026-06-28,R005,Yogyakarta - Malang,Pagi,29.83,32.26,1,rolling_average
+2026-06-28,R006,Yogyakarta - Denpasar,Dini Hari,16.51,30.03,1,rolling_average
+2026-06-28,R007,Yogyakarta - Solo,Siang,18.29,29.96,1,rolling_average
+2026-06-28,R008,Yogyakarta - Purwokerto,Dini Hari,19.14,32.13,1,rolling_average
+2026-06-28,R008,Yogyakarta - Purwokerto,Malam,14.12,31.01,1,rolling_average
+2026-06-28,R009,Yogyakarta - Madiun,Pagi,18.59,30.24,1,rolling_average
+2026-06-28,R010,Yogyakarta - Lampung,Dini Hari,12.9,32.08,1,rolling_average
+2026-06-28,R010,Yogyakarta - Lampung,Siang,17.23,30.54,1,rolling_average
+2026-06-29,R001,Yogyakarta - Jakarta,Pagi,32.36,30.81,2,rolling_average
+2026-06-29,R001,Yogyakarta - Jakarta,Sore,35.02,31.86,2,rolling_average
+2026-06-29,R003,Yogyakarta - Surabaya,Dini Hari,36.11,30.87,2,rolling_average
+2026-06-29,R003,Yogyakarta - Surabaya,Malam,34.0,31.04,2,rolling_average
+2026-06-29,R003,Yogyakarta - Surabaya,Sore,24.0,31.3,1,rolling_average
+2026-06-29,R004,Yogyakarta - Semarang,Dini Hari,26.04,32.38,1,rolling_average
+2026-06-29,R004,Yogyakarta - Semarang,Malam,19.57,31.43,1,rolling_average
+2026-06-29,R004,Yogyakarta - Semarang,Siang,16.15,32.11,1,rolling_average
+2026-06-29,R005,Yogyakarta - Malang,Dini Hari,22.45,31.7,1,rolling_average
+2026-06-29,R005,Yogyakarta - Malang,Pagi,29.83,32.26,1,rolling_average
+2026-06-29,R006,Yogyakarta - Denpasar,Dini Hari,16.51,30.03,1,rolling_average
+2026-06-29,R007,Yogyakarta - Solo,Malam,18.38,31.36,1,rolling_average
+2026-06-29,R007,Yogyakarta - Solo,Siang,18.29,29.96,1,rolling_average
+2026-06-29,R008,Yogyakarta - Purwokerto,Dini Hari,19.14,32.13,1,rolling_average
+2026-06-29,R008,Yogyakarta - Purwokerto,Malam,14.12,31.01,1,rolling_average
+2026-06-29,R008,Yogyakarta - Purwokerto,Siang,17.68,31.23,1,rolling_average
+2026-06-29,R009,Yogyakarta - Madiun,Sore,19.28,31.96,1,rolling_average
+2026-06-29,R010,Yogyakarta - Lampung,Dini Hari,12.9,32.08,1,rolling_average
+2026-06-29,R010,Yogyakarta - Lampung,Siang,17.23,30.54,1,rolling_average
+2026-06-29,R010,Yogyakarta - Lampung,Sore,15.6,31.36,1,rolling_average
+2026-06-30,R001,Yogyakarta - Jakarta,Pagi,32.36,30.81,2,rolling_average
+2026-06-30,R001,Yogyakarta - Jakarta,Sore,35.02,31.86,2,rolling_average
+2026-06-30,R003,Yogyakarta - Surabaya,Dini Hari,36.11,30.87,2,rolling_average
+2026-06-30,R003,Yogyakarta - Surabaya,Pagi,34.44,31.2,2,rolling_average
+2026-06-30,R003,Yogyakarta - Surabaya,Sore,24.0,31.3,1,rolling_average
+2026-06-30,R004,Yogyakarta - Semarang,Dini Hari,26.04,32.38,1,rolling_average
+2026-06-30,R004,Yogyakarta - Semarang,Malam,19.57,31.43,1,rolling_average
+2026-06-30,R004,Yogyakarta - Semarang,Siang,16.15,32.11,1,rolling_average
+2026-06-30,R005,Yogyakarta - Malang,Dini Hari,22.45,31.7,1,rolling_average
+2026-06-30,R005,Yogyakarta - Malang,Pagi,29.83,32.26,1,rolling_average
+2026-06-30,R006,Yogyakarta - Denpasar,Dini Hari,16.51,30.03,1,rolling_average
+2026-06-30,R007,Yogyakarta - Solo,Malam,18.38,31.36,1,rolling_average
+2026-06-30,R007,Yogyakarta - Solo,Siang,18.29,29.96,1,rolling_average
+2026-06-30,R008,Yogyakarta - Purwokerto,Dini Hari,19.14,32.13,1,rolling_average
+2026-06-30,R008,Yogyakarta - Purwokerto,Siang,17.68,31.23,1,rolling_average
+2026-06-30,R009,Yogyakarta - Madiun,Dini Hari,33.4,30.08,2,rolling_average
+2026-06-30,R009,Yogyakarta - Madiun,Sore,19.28,31.96,1,rolling_average
+2026-06-30,R010,Yogyakarta - Lampung,Siang,17.23,30.54,1,rolling_average
+2026-06-30,R010,Yogyakarta - Lampung,Sore,15.6,31.36,1,rolling_average
+2026-07-01,R001,Yogyakarta - Jakarta,Pagi,32.36,30.81,2,rolling_average
+2026-07-01,R001,Yogyakarta - Jakarta,Sore,35.02,31.86,2,rolling_average
+2026-07-01,R002,Yogyakarta - Bandung,Siang,23.89,32.53,1,rolling_average
+2026-07-01,R003,Yogyakarta - Surabaya,Dini Hari,36.11,30.87,2,rolling_average
+2026-07-01,R003,Yogyakarta - Surabaya,Pagi,34.44,31.2,2,rolling_average
+2026-07-01,R003,Yogyakarta - Surabaya,Sore,24.0,31.3,1,rolling_average
+2026-07-01,R004,Yogyakarta - Semarang,Dini Hari,26.04,32.38,1,rolling_average
+2026-07-01,R004,Yogyakarta - Semarang,Malam,19.57,31.43,1,rolling_average
+2026-07-01,R004,Yogyakarta - Semarang,Siang,16.15,32.11,1,rolling_average
+2026-07-01,R005,Yogyakarta - Malang,Dini Hari,22.45,31.7,1,rolling_average
+2026-07-01,R005,Yogyakarta - Malang,Pagi,29.83,32.26,1,rolling_average
+2026-07-01,R006,Yogyakarta - Denpasar,Dini Hari,16.51,30.03,1,rolling_average
+2026-07-01,R006,Yogyakarta - Denpasar,Pagi,15.45,31.23,1,rolling_average
+2026-07-01,R006,Yogyakarta - Denpasar,Sore,15.91,30.67,1,rolling_average
+2026-07-01,R007,Yogyakarta - Solo,Dini Hari,16.14,31.58,1,rolling_average
+2026-07-01,R007,Yogyakarta - Solo,Malam,18.38,31.36,1,rolling_average
+2026-07-01,R007,Yogyakarta - Solo,Siang,18.29,29.96,1,rolling_average
+2026-07-01,R008,Yogyakarta - Purwokerto,Siang,17.68,31.23,1,rolling_average
+2026-07-01,R009,Yogyakarta - Madiun,Dini Hari,33.4,30.08,2,rolling_average
+2026-07-01,R009,Yogyakarta - Madiun,Sore,19.28,31.96,1,rolling_average
+2026-07-01,R010,Yogyakarta - Lampung,Siang,17.23,30.54,1,rolling_average
+2026-07-01,R010,Yogyakarta - Lampung,Sore,15.6,31.36,1,rolling_average
+2026-07-02,R001,Yogyakarta - Jakarta,Pagi,32.36,30.81,2,rolling_average
+2026-07-02,R001,Yogyakarta - Jakarta,Sore,35.02,31.86,2,rolling_average
+2026-07-02,R002,Yogyakarta - Bandung,Siang,23.89,32.53,1,rolling_average
+2026-07-02,R003,Yogyakarta - Surabaya,Dini Hari,36.11,30.87,2,rolling_average
+2026-07-02,R003,Yogyakarta - Surabaya,Pagi,34.44,31.2,2,rolling_average
+2026-07-02,R003,Yogyakarta - Surabaya,Sore,24.0,31.3,1,rolling_average
+2026-07-02,R004,Yogyakarta - Semarang,Malam,19.57,31.43,1,rolling_average
+2026-07-02,R004,Yogyakarta - Semarang,Siang,16.15,32.11,1,rolling_average
+2026-07-02,R005,Yogyakarta - Malang,Pagi,29.83,32.26,1,rolling_average
+2026-07-02,R006,Yogyakarta - Denpasar,Pagi,15.45,31.23,1,rolling_average
+2026-07-02,R006,Yogyakarta - Denpasar,Sore,15.91,30.67,1,rolling_average
+2026-07-02,R007,Yogyakarta - Solo,Dini Hari,16.14,31.58,1,rolling_average
+2026-07-02,R007,Yogyakarta - Solo,Malam,18.38,31.36,1,rolling_average
+2026-07-02,R007,Yogyakarta - Solo,Siang,18.29,29.96,1,rolling_average
+2026-07-02,R008,Yogyakarta - Purwokerto,Siang,17.68,31.23,1,rolling_average
+2026-07-02,R009,Yogyakarta - Madiun,Dini Hari,33.4,30.08,2,rolling_average
+2026-07-02,R009,Yogyakarta - Madiun,Sore,19.28,31.96,1,rolling_average
+2026-07-02,R010,Yogyakarta - Lampung,Siang,17.23,30.54,1,rolling_average
+2026-07-02,R010,Yogyakarta - Lampung,Sore,15.6,31.36,1,rolling_average
+2026-07-03,R001,Yogyakarta - Jakarta,Pagi,32.36,30.81,2,rolling_average
+2026-07-03,R001,Yogyakarta - Jakarta,Sore,35.02,31.86,2,rolling_average
+2026-07-03,R002,Yogyakarta - Bandung,Siang,23.89,32.53,1,rolling_average
+2026-07-03,R003,Yogyakarta - Surabaya,Pagi,34.44,31.2,2,rolling_average
+2026-07-03,R003,Yogyakarta - Surabaya,Sore,24.0,31.3,1,rolling_average
+2026-07-03,R004,Yogyakarta - Semarang,Malam,19.57,31.43,1,rolling_average
+2026-07-03,R005,Yogyakarta - Malang,Pagi,29.83,32.26,1,rolling_average
+2026-07-03,R006,Yogyakarta - Denpasar,Pagi,15.45,31.23,1,rolling_average
+2026-07-03,R006,Yogyakarta - Denpasar,Sore,15.91,30.67,1,rolling_average
+2026-07-03,R007,Yogyakarta - Solo,Dini Hari,16.14,31.58,1,rolling_average
+2026-07-03,R007,Yogyakarta - Solo,Malam,18.38,31.36,1,rolling_average
+2026-07-03,R007,Yogyakarta - Solo,Siang,18.29,29.96,1,rolling_average
+2026-07-03,R008,Yogyakarta - Purwokerto,Siang,17.68,31.23,1,rolling_average
+2026-07-03,R009,Yogyakarta - Madiun,Dini Hari,33.4,30.08,2,rolling_average
+2026-07-03,R009,Yogyakarta - Madiun,Sore,19.28,31.96,1,rolling_average
+2026-07-03,R010,Yogyakarta - Lampung,Siang,17.23,30.54,1,rolling_average
+2026-07-03,R010,Yogyakarta - Lampung,Sore,15.6,31.36,1,rolling_average
+2026-07-04,R002,Yogyakarta - Bandung,Siang,23.89,32.53,1,rolling_average
+2026-07-04,R003,Yogyakarta - Surabaya,Pagi,34.44,31.2,2,rolling_average
+2026-07-04,R003,Yogyakarta - Surabaya,Sore,24.0,31.3,1,rolling_average
+2026-07-04,R005,Yogyakarta - Malang,Pagi,29.83,32.26,1,rolling_average
+2026-07-04,R006,Yogyakarta - Denpasar,Pagi,15.45,31.23,1,rolling_average
+2026-07-04,R006,Yogyakarta - Denpasar,Sore,15.91,30.67,1,rolling_average
+2026-07-04,R007,Yogyakarta - Solo,Dini Hari,16.14,31.58,1,rolling_average
+2026-07-04,R007,Yogyakarta - Solo,Malam,18.38,31.36,1,rolling_average
+2026-07-04,R008,Yogyakarta - Purwokerto,Siang,17.68,31.23,1,rolling_average
+2026-07-04,R009,Yogyakarta - Madiun,Dini Hari,33.4,30.08,2,rolling_average
+2026-07-04,R009,Yogyakarta - Madiun,Sore,19.28,31.96,1,rolling_average
+2026-07-04,R010,Yogyakarta - Lampung,Siang,17.23,30.54,1,rolling_average
+2026-07-04,R010,Yogyakarta - Lampung,Sore,15.6,31.36,1,rolling_average
+2026-07-05,R002,Yogyakarta - Bandung,Siang,23.89,32.53,1,rolling_average
+2026-07-05,R003,Yogyakarta - Surabaya,Pagi,34.44,31.2,2,rolling_average
+2026-07-05,R006,Yogyakarta - Denpasar,Pagi,15.45,31.23,1,rolling_average
+2026-07-05,R006,Yogyakarta - Denpasar,Sore,15.91,30.67,1,rolling_average
+2026-07-05,R007,Yogyakarta - Solo,Dini Hari,16.14,31.58,1,rolling_average
+2026-07-05,R007,Yogyakarta - Solo,Malam,18.38,31.36,1,rolling_average
+2026-07-05,R008,Yogyakarta - Purwokerto,Siang,17.68,31.23,1,rolling_average
+2026-07-05,R009,Yogyakarta - Madiun,Dini Hari,33.4,30.08,2,rolling_average
+2026-07-05,R009,Yogyakarta - Madiun,Sore,19.28,31.96,1,rolling_average
+2026-07-05,R010,Yogyakarta - Lampung,Sore,15.6,31.36,1,rolling_average
+2026-07-06,R002,Yogyakarta - Bandung,Siang,23.89,32.53,1,rolling_average
+2026-07-06,R003,Yogyakarta - Surabaya,Pagi,34.44,31.2,2,rolling_average
+2026-07-06,R006,Yogyakarta - Denpasar,Pagi,15.45,31.23,1,rolling_average
+2026-07-06,R006,Yogyakarta - Denpasar,Sore,15.91,30.67,1,rolling_average
+2026-07-06,R007,Yogyakarta - Solo,Dini Hari,16.14,31.58,1,rolling_average
+2026-07-06,R009,Yogyakarta - Madiun,Dini Hari,33.4,30.08,2,rolling_average
+2026-07-07,R002,Yogyakarta - Bandung,Siang,23.89,32.53,1,rolling_average
+2026-07-07,R006,Yogyakarta - Denpasar,Pagi,15.45,31.23,1,rolling_average
+2026-07-07,R006,Yogyakarta - Denpasar,Sore,15.91,30.67,1,rolling_average
+2026-07-07,R007,Yogyakarta - Solo,Dini Hari,16.14,31.58,1,rolling_average

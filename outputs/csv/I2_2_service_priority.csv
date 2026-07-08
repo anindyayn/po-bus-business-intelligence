@@ -1,0 +1,86 @@
+date,fleet_id,fleet_type,bus_class,km_since_service,days_to_service,health_score,risk_score,downtime_hours,recurring_issue,maintenance_priority,service_priority_score,service_priority_python,action_recommendation
+2026-06-28,BUS-032,Mercedes OH,Sleeper,28089,-38,68.8,56,10.2,Ya,Medium,93.74,High,Pesan Part
+2026-06-26,BUS-075,Hino RM,Eksekutif,20861,-34,70.7,48,3.8,Ya,High,78.67,High,Servis Segera
+2026-06-24,BUS-003,Mercedes OH,Eksekutif,19292,-3,75.2,39,10.4,Ya,Medium,69.24,High,Pesan Part
+2026-06-19,BUS-054,Scania K,VIP,22191,-3,74.2,29,15.9,Tidak,Medium,62.57,Medium,Pesan Part
+2026-06-27,BUS-005,Hino RM,Ekonomi,18942,-6,69.2,44,9.4,Tidak,Medium,60.03,Medium,Pesan Part
+2026-05-01,BUS-012,Hino RM,Sleeper,19101,-1,75.1,42,17.5,Tidak,High,59.67,Medium,Servis Segera
+2026-06-22,BUS-021,Mercedes OH,Ekonomi,16853,-4,75.2,42,17.0,Tidak,High,58.0,Medium,Servis Segera
+2026-06-07,BUS-008,Volvo B11R,Sleeper,20954,-1,78.0,41,14.5,Tidak,High,55.83,Medium,Servis Segera
+2026-06-23,BUS-017,Mercedes OH,Ekonomi,20686,-11,77.3,32,10.2,Tidak,High,55.55,Medium,Servis Segera
+2026-06-24,BUS-011,Hino RM,Eksekutif,17307,-5,76.7,42,14.1,Tidak,High,54.7,Medium,Servis Segera
+2026-06-25,BUS-048,Hino RM,Sleeper,11746,15,74.7,20,0.3,Ya,Low,49.02,Medium,Monitoring
+2026-06-21,BUS-031,Mercedes OH,Eksekutif,15257,-8,79.0,33,10.1,Tidak,Medium,47.99,Medium,Pesan Part
+2026-06-24,BUS-079,Mercedes OH,Eksekutif,19965,4,72.4,32,1.4,Tidak,Low,47.91,Medium,Monitoring
+2026-06-13,BUS-028,Mercedes OH,Sleeper,19033,-19,82.9,38,5.5,Tidak,Medium,46.72,Medium,Pesan Part
+2026-06-22,BUS-070,Hino RM,VIP,12427,16,79.1,22,1.9,Ya,Medium,46.26,Medium,Pesan Part
+2026-06-21,BUS-082,Hino RM,VIP,18444,1,74.1,27,0.7,Tidak,Low,45.1,Medium,Pesan Part
+2026-06-27,BUS-013,Scania K,Ekonomi,17643,4,74.9,21,2.8,Tidak,Low,44.49,Medium,Pesan Part
+2026-06-13,BUS-039,Hino RM,Eksekutif,10306,23,79.9,18,2.9,Ya,Low,42.34,Medium,Monitoring
+2026-06-02,BUS-065,Hino RM,Ekonomi,17360,7,75.2,33,1.4,Tidak,Low,41.85,Medium,Pesan Part
+2026-06-10,BUS-030,Scania K,VIP,18710,8,77.6,18,1.6,Tidak,Medium,40.51,Medium,Pesan Part
+2026-06-02,BUS-033,Scania K,Ekonomi,14775,0,76.8,22,1.4,Tidak,Medium,39.97,Medium,Pesan Part
+2026-06-15,BUS-001,Scania K,Ekonomi,15757,13,75.0,17,1.5,Tidak,Low,38.94,Medium,Monitoring
+2026-05-16,BUS-055,Mercedes OH,Eksekutif,16779,1,80.2,24,2.2,Tidak,Low,38.72,Medium,Pesan Part
+2026-06-20,BUS-007,Scania K,Eksekutif,14198,11,76.6,14,1.4,Tidak,Low,36.42,Medium,Pesan Part
+2026-05-31,BUS-067,Mercedes OH,Eksekutif,14186,0,80.8,18,2.4,Tidak,Medium,36.25,Medium,Pesan Part
+2026-06-17,BUS-023,Scania K,Eksekutif,14803,17,76.5,24,1.8,Tidak,Medium,35.64,Medium,Pesan Part
+2026-06-20,BUS-024,Hino RM,Sleeper,16368,11,78.9,26,0.9,Tidak,Low,35.61,Medium,Pesan Part
+2026-06-30,BUS-004,Scania K,Sleeper,14236,1,80.5,18,1.0,Tidak,Low,35.1,Medium,Pesan Part
+2026-06-29,BUS-016,Scania K,Sleeper,13355,15,77.7,23,2.9,Tidak,Medium,34.66,Low,Pesan Part
+2026-06-28,BUS-018,Mercedes OH,VIP,14918,9,78.7,29,0.1,Tidak,Low,34.41,Low,Monitoring
+2026-06-26,BUS-043,Mercedes OH,Eksekutif,13646,0,80.9,18,0.9,Tidak,Low,34.38,Low,Pesan Part
+2026-06-25,BUS-034,Hino RM,VIP,15494,17,76.9,26,0.0,Tidak,Medium,34.31,Low,Monitoring
+2026-03-26,BUS-066,Volvo B11R,VIP,15143,18,77.8,20,1.2,Tidak,Low,33.82,Low,Pesan Part
+2026-06-26,BUS-052,Hino RM,Sleeper,10707,8,78.9,27,2.9,Tidak,Low,33.12,Low,Pesan Part
+2026-06-29,BUS-009,Mercedes OH,Ekonomi,11440,10,78.2,19,1.3,Tidak,Low,32.53,Low,Pesan Part
+2026-04-28,BUS-057,Mercedes OH,Ekonomi,14403,0,84.7,13,2.4,Tidak,Low,32.5,Low,Pesan Part
+2026-06-18,BUS-035,Volvo B11R,Eksekutif,14285,20,78.9,17,1.0,Tidak,Low,31.18,Low,Pesan Part
+2026-04-10,BUS-080,Hino RM,Sleeper,10755,7,80.0,16,1.5,Tidak,Medium,31.15,Low,Pesan Part
+2026-05-14,BUS-029,Volvo B11R,Ekonomi,12127,12,80.9,20,2.5,Tidak,Low,30.86,Low,Pesan Part
+2026-05-11,BUS-071,Scania K,Eksekutif,11417,2,82.5,22,1.6,Tidak,Medium,30.77,Low,Pesan Part
+2026-06-27,BUS-046,Mercedes OH,VIP,12340,25,77.9,27,2.9,Tidak,Low,30.6,Low,Pesan Part
+2026-06-22,BUS-044,Volvo B11R,Sleeper,12386,16,81.0,23,2.8,Tidak,Medium,30.07,Low,Monitoring
+2026-06-12,BUS-063,Hino RM,Eksekutif,11828,8,84.0,8,2.7,Tidak,Low,28.8,Low,Pesan Part
+2026-06-10,BUS-036,Scania K,Sleeper,10450,7,81.5,24,0.5,Tidak,Low,28.5,Low,Pesan Part
+2026-06-07,BUS-076,Hino RM,Sleeper,9453,33,75.8,27,2.5,Tidak,Medium,28.32,Low,Pesan Part
+2026-06-30,BUS-078,Hino RM,VIP,10147,32,76.5,26,1.2,Tidak,Low,27.12,Low,Pesan Part
+2026-06-30,BUS-061,Volvo B11R,Ekonomi,11381,14,83.1,24,2.0,Tidak,Low,26.94,Low,Pesan Part
+2026-05-25,BUS-064,Volvo B11R,Sleeper,5832,41,87.3,11,0.7,Ya,Low,26.89,Low,Pesan Part
+2026-05-20,BUS-069,Scania K,Ekonomi,2379,48,86.1,15,1.8,Ya,Low,25.94,Low,Pesan Part
+2026-05-27,BUS-053,Volvo B11R,Ekonomi,10558,19,81.3,20,0.9,Tidak,Low,25.61,Low,Pesan Part
+2026-06-29,BUS-019,Hino RM,Eksekutif,10778,24,81.4,26,2.4,Tidak,Low,25.52,Low,Pesan Part
+2026-05-08,BUS-085,Volvo B11R,Ekonomi,11292,29,79.3,28,0.5,Tidak,Low,25.01,Low,Monitoring
+2026-06-06,BUS-045,Scania K,Ekonomi,10507,24,80.7,23,0.3,Tidak,Medium,24.19,Low,Pesan Part
+2026-04-21,BUS-026,Hino RM,VIP,1912,55,88.3,14,2.4,Ya,Low,23.81,Low,Pesan Part
+2026-06-19,BUS-022,Hino RM,VIP,7416,22,79.8,25,0.4,Tidak,Low,23.0,Low,Monitoring
+2026-06-26,BUS-056,Mercedes OH,Sleeper,7721,38,80.1,8,2.8,Tidak,Low,22.67,Low,Monitoring
+2026-06-19,BUS-020,Hino RM,Sleeper,7325,29,79.8,21,1.4,Tidak,Low,21.71,Low,Pesan Part
+2026-06-30,BUS-083,Scania K,Eksekutif,9544,30,80.6,22,0.1,Tidak,Low,21.49,Low,Pesan Part
+2026-05-05,BUS-058,Scania K,VIP,11376,29,82.7,22,0.1,Tidak,Low,21.3,Low,Pesan Part
+2026-06-16,BUS-010,Scania K,VIP,6893,37,80.6,21,2.6,Tidak,Medium,21.25,Low,Pesan Part
+2026-06-14,BUS-059,Scania K,Eksekutif,7770,37,81.6,16,2.1,Tidak,Low,20.6,Low,Monitoring
+2026-06-18,BUS-027,Volvo B11R,Eksekutif,10863,29,83.8,18,0.7,Tidak,Low,20.24,Low,Pesan Part
+2026-06-29,BUS-081,Mercedes OH,Ekonomi,6353,42,80.4,11,0.1,Tidak,Medium,18.83,Low,Pesan Part
+2026-06-11,BUS-006,Scania K,VIP,6924,41,81.4,18,0.1,Tidak,Low,18.33,Low,Pesan Part
+2026-05-04,BUS-060,Hino RM,Sleeper,7563,39,82.2,17,0.3,Tidak,Low,18.26,Low,Pesan Part
+2026-05-27,BUS-073,Scania K,Ekonomi,5251,39,80.6,12,0.0,Tidak,Medium,17.55,Low,Pesan Part
+2026-06-28,BUS-047,Scania K,Eksekutif,5938,33,82.5,8,1.0,Tidak,Low,17.1,Low,Monitoring
+2026-06-27,BUS-062,Mercedes OH,VIP,7372,39,83.5,23,0.4,Tidak,Low,16.86,Low,Pesan Part
+2026-06-18,BUS-037,Hino RM,Ekonomi,7097,40,84.4,18,1.5,Tidak,Low,16.64,Low,Monitoring
+2026-05-22,BUS-049,Volvo B11R,Ekonomi,9381,29,86.0,11,0.4,Tidak,Medium,16.43,Low,Pesan Part
+2026-06-03,BUS-002,Volvo B11R,VIP,6249,41,84.7,17,2.4,Tidak,Medium,16.35,Low,Monitoring
+2026-04-28,BUS-038,Scania K,VIP,9018,16,90.3,7,1.0,Tidak,Low,16.09,Low,Pesan Part
+2026-06-06,BUS-068,Hino RM,Sleeper,7194,38,87.1,14,2.6,Tidak,Medium,14.94,Low,Monitoring
+2026-06-21,BUS-077,Scania K,Ekonomi,4805,46,84.4,13,0.9,Tidak,Low,14.07,Low,Pesan Part
+2026-05-31,BUS-040,Scania K,Sleeper,6887,40,86.8,11,1.3,Tidak,Medium,13.86,Low,Monitoring
+2026-05-21,BUS-015,Hino RM,Eksekutif,7752,32,87.6,12,0.6,Tidak,Low,13.22,Low,Pesan Part
+2026-06-27,BUS-072,Mercedes OH,Sleeper,6110,29,89.5,15,2.3,Tidak,Low,11.58,Low,Pesan Part
+2026-04-20,BUS-051,Scania K,Eksekutif,2610,50,86.1,15,1.6,Tidak,Low,10.98,Low,Pesan Part
+2026-02-28,BUS-042,Volvo B11R,VIP,2994,46,87.6,15,1.2,Tidak,Medium,9.46,Low,Pesan Part
+2026-06-08,BUS-014,Hino RM,VIP,4969,40,90.4,15,1.5,Tidak,Low,8.66,Low,Pesan Part
+2026-06-05,BUS-025,Mercedes OH,Ekonomi,4067,46,90.7,13,2.4,Tidak,Low,8.32,Low,Pesan Part
+2026-06-04,BUS-041,Hino RM,Ekonomi,3183,48,91.7,7,1.9,Tidak,Medium,6.08,Low,Monitoring
+2026-06-17,BUS-084,Volvo B11R,Sleeper,1968,54,90.3,5,0.2,Tidak,Medium,4.95,Low,Monitoring
+2026-06-21,BUS-050,Scania K,VIP,963,56,91.3,19,0.3,Tidak,Medium,3.12,Low,Pesan Part
+2026-06-03,BUS-074,Hino RM,VIP,250,56,93.5,3,1.0,Tidak,Medium,0.86,Low,Pesan Part

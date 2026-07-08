@@ -1,0 +1,22 @@
+alert_type,alert_level,entity_id,entity_name,alert_detail,spare_part_category,avg_stock_qty,min_stock_qty,avg_min_stock,avg_reorder_point,critical_records,reorder_status,kir_expiry_date,days_to_kir_expiry,kir_status,inspection_result,action_recommendation
+Spare Part,Critical,SP05,Aki Bus,Stock min 0; avg stock 23.5; reorder point 30.0,Kelistrikan,23.495412844036696,0.0,18.0,30.0,177.0,Critical,,,,,
+Spare Part,Critical,SP06,Relay AC,Stock min 0; avg stock 20.4; reorder point 25.0,AC,20.398009950248756,0.0,12.0,25.0,148.0,Critical,,,,,
+Spare Part,Critical,SP10,Sensor Rem,Stock min 0; avg stock 23.8; reorder point 28.0,Rem,23.815352697095435,0.0,12.0,28.0,145.0,Aman,,,,,
+Spare Part,Critical,SP09,Shockbreaker,Stock min 0; avg stock 26.9; reorder point 32.0,Suspensi,26.936018957345972,0.0,16.0,32.0,126.0,Aman,,,,,
+Spare Part,Critical,SP01,Ban Luar,Stock min 0; avg stock 41.8; reorder point 50.0,Ban,41.75952380952381,0.0,30.0,50.0,116.0,Reorder,,,,,
+Spare Part,Critical,SP03,Filter Oli,Stock min 0; avg stock 53.3; reorder point 65.0,Mesin,53.31386861313869,0.0,35.0,65.0,76.0,Reorder,,,,,
+Spare Part,Critical,SP02,Kampas Rem,Stock min 10; avg stock 57.9; reorder point 70.0,Rem,57.87665198237885,10.0,40.0,70.0,71.0,Reorder,,,,,
+Spare Part,Critical,SP07,V-Belt,Stock min 0; avg stock 37.9; reorder point 45.0,Mesin,37.87906976744186,0.0,20.0,45.0,71.0,Reorder,,,,,
+Spare Part,Critical,SP08,Lampu Utama,Stock min 0; avg stock 42.8; reorder point 50.0,Kelistrikan,42.81774580335731,0.0,24.0,50.0,66.0,Reorder,,,,,
+Spare Part,Critical,SP04,Oli Mesin,Stock min 22; avg stock 80.8; reorder point 95.0,Mesin,80.77027027027027,22.0,50.0,95.0,26.0,Reorder,,,,,
+KIR,Expired/Invalid,BUS-066,BUS-066,KIR status Kedaluwarsa; expires in -36 days,,,,,,,,2026-02-18,-36.0,Kedaluwarsa,Lulus,Pesan Part
+KIR,Expired/Invalid,BUS-080,BUS-080,KIR status Kedaluwarsa; expires in -10 days,,,,,,,,2026-03-31,-10.0,Kedaluwarsa,Lulus,Pesan Part
+KIR,Expired/Invalid,BUS-055,BUS-055,KIR status Segera Habis; expires in 0 days,,,,,,,,2026-05-16,0.0,Segera Habis,Lulus,Pesan Part
+KIR,Expired/Invalid,BUS-033,BUS-033,KIR status Segera Habis; expires in 0 days,,,,,,,,2026-06-02,0.0,Segera Habis,Catatan Ringan,Pesan Part
+KIR,Expired/Invalid,BUS-074,BUS-074,KIR status Segera Habis; expires in 26 days,,,,,,,,2026-06-29,26.0,Segera Habis,Lulus,Pesan Part
+KIR,Expired/Invalid,BUS-014,BUS-014,KIR status Kedaluwarsa; expires in -15 days,,,,,,,,2026-05-24,-15.0,Kedaluwarsa,Lulus,Pesan Part
+KIR,Expired/Invalid,BUS-006,BUS-006,KIR status Kedaluwarsa; expires in -27 days,,,,,,,,2026-05-15,-27.0,Kedaluwarsa,Lulus,Pesan Part
+KIR,Expired/Invalid,BUS-031,BUS-031,KIR status Segera Habis; expires in 26 days,,,,,,,,2026-07-17,26.0,Segera Habis,Catatan Ringan,Pesan Part
+KIR,Expired/Invalid,BUS-003,BUS-003,KIR status Kedaluwarsa; expires in -5 days,,,,,,,,2026-06-19,-5.0,Kedaluwarsa,Perlu Servis,Pesan Part
+KIR,Expired/Invalid,BUS-013,BUS-013,KIR status Kedaluwarsa; expires in -13 days,,,,,,,,2026-06-14,-13.0,Kedaluwarsa,Lulus,Pesan Part
+KIR,Expired/Invalid,BUS-078,BUS-078,KIR status Segera Habis; expires in 14 days,,,,,,,,2026-07-14,14.0,Segera Habis,Lulus,Pesan Part
